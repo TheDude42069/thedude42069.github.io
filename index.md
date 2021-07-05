@@ -1,3 +1,4 @@
+<title>:O</title>
 Hi! Welcome to my Github Page. <br />
 Here you can see shit i made: <br />
 <a href="https://github.com/TheDude42069/fuck-u3DS">fuck-u3ds</a> <br />
