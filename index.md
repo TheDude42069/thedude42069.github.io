@@ -3,6 +3,6 @@ Here you can see shit i made: <br />
 <a href="https://github.com/TheDude42069/fuck-u3DS">fuck-u3ds (No longer in development)</a> <br />
 On a different note: <br />
 Wow you looked at my page thanks. <br />
-<a href="aboutme.md">About Me</a> <br />
+<a href="aboutme.html">About Me</a> <br />
 Contact: <br />
 If you really want to contact me add me on Discord @TheDude#7193 and if you dont have discord then get it. <br />
