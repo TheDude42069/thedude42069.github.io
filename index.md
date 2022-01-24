@@ -1,7 +1,7 @@
 Hi! Welcome to my Github Page. <br />
 Here you can see shit i made: <br />
-<a href="https://github.com/TheDude617/fuck-u3DS">fuck-u3ds (No longer in development)</a> <br />
-<a href="https://github.com/TheDude617thumbsup-3DS">thumbsup-3DS (SoonTM)</a> <br />
+<a href="https://github.com/TheDude617/fuck-u3DS">fuck-u3ds </a> <br />
+<a href="https://github.com/TheDude617/thumbsup-3DS">thumbsup-3DS (SoonTM)</a> <br />
 On a different note: <br />
 Wow you looked at my page thanks. <br />
 <a href="aboutme.html">About Me</a> <br />
